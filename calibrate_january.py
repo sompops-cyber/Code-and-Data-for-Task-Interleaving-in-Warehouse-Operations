@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Sompop Saengphueng
+# Replication Code for: "Task Interleaving in Warehouse Operations"
+# Licensed under the MIT License. See LICENSE file for full details.
 """January 2025 calibration using the observed DAILY records.
 Step 1: recalibrate demand  - real daily means are 740 put-away / 831 picking
         pallets (not Table 14's 307/366) -> rerun baseline utilization check.
