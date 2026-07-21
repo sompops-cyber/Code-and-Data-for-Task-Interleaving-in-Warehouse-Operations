@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Sompop Saengphueng
+# Replication Code for: "Task Interleaving in Warehouse Operations"
+# Licensed under the MIT License. See LICENSE file for full details.
 """
 Discrete-event simulation of warehouse task interleaving (dual-command) policies.
 =================================================================================
