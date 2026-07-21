@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Sompop Saengphueng
+# Replication Code for: "Task Interleaving in Warehouse Operations"
+# Licensed under the MIT License. See LICENSE file for full details.
 """Experimental grid v2 -- at CALIBRATED January demand (740/831) and tau* = 1.5."""
 import json, statistics, sys
 sys.path.insert(0, "/home/claude/paper")
